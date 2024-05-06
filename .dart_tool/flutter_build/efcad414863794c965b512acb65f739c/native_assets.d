@@ -1,0 +1,1 @@
+ /Users/jeevanreddy/Documents/flutter\ projects/flutter_getx_sample/.dart_tool/flutter_build/efcad414863794c965b512acb65f739c/native_assets.yaml: 
